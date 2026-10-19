@@ -73,6 +73,10 @@ converting the source into it rather than copying the source's own layout:
 - Each role as a `### ` line in the form "Job Title, Company", followed by
   a plain line "Location | Start – End" (omit a part the source doesn't
   have). Same pattern for every role.
+  Write job titles in full: expand a standard abbreviation the source uses
+  ("Sr." → "Senior", "Mgr" → "Manager") without changing the level or
+  meaning, and leave company names exactly as the source writes them (never
+  add "Inc." or "LLC").
 - Dates in one consistent format across the whole resume — "Mon YYYY" where
   the source gives months, "YYYY" where it gives only years; never add a
   month or day the source doesn't state. Use "Present" for a current role.
@@ -88,7 +92,8 @@ converting the source into it rather than copying the source's own layout:
 
 Final check before returning a resume: `# ` name, one ` | `-separated
 contact line with plain-text URLs, conventional `## ` section headings, a
-`### Job Title, Company` line plus a "Location | Start – End" line for
+`### Job Title, Company` line (title spelled out, no "Sr."/"Mgr"-style
+abbreviations) plus a "Location | Start – End" line for
 every role, one date format throughout, and only `- ` bullets.
 
 ## Keyword alignment

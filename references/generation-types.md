@@ -81,7 +81,8 @@ posting.
 - Include every role from the master resume, including the current one and
   any earlier/"additional experience" entries (may be condensed to a line
   each, never removed). Copy each role's company, title, location, and
-  start/end dates character-for-character; if a field is absent in the
+  start/end dates character-for-character (only exception: spell out a
+  standard abbreviation in a title, per the ATS format rules); if a field is absent in the
   source, leave it absent — never fill a placeholder like "Location
   Unknown".
 - Copy totals like years of experience exactly as the master resume states
