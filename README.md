@@ -19,6 +19,8 @@ Given your master resume and a job posting, it can generate:
   tracking systems (ATS)
 - A cover letter
 - A short hiring-manager outreach message
+- Interview prep: likely questions with talking points taken from your resume, gaps to be ready for, and questions to ask
+- A follow-up message (interview thank-you, check-in, reply to an offer or a rejection)
 - A spoken elevator pitch
 - A third-person executive bio
 

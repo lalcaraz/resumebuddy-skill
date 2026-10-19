@@ -1,6 +1,6 @@
 ---
 name: resumebuddy
-description: "Tailor a resume, cover letter, or outreach message to a specific job posting using your own master resume — no API key, no account, runs entirely on the Claude session invoking it. Use when the user wants to tailor/adapt their resume or cover letter to a job description, check how well their resume matches a posting, or draft a recruiter/hiring-manager outreach message, elevator pitch, or executive bio grounded in their real experience."
+description: "Tailor a resume, cover letter, or outreach message to a specific job posting using your own master resume — no API key, no account, runs entirely on the Claude session invoking it. Use when the user wants to tailor/adapt their resume or cover letter to a job description, check how well their resume matches a posting, or draft a recruiter/hiring-manager outreach message, interview-prep questions and talking points, an interview thank-you or other follow-up message, elevator pitch, or executive bio grounded in their real experience."
 ---
 
 # resumeBuddy
@@ -33,6 +33,10 @@ key, and nothing is sent anywhere beyond this conversation.
    - Full tailored resume
    - Cover letter
    - Hiring-manager outreach message
+   - Interview prep (likely questions with talking points grounded in the
+     resume, gaps to be ready for, questions to ask)
+   - Follow-up message (thank-you after an interview, check-in, reply to
+     an offer, or reply to a rejection)
    - Elevator pitch (spoken, ~30-45s)
    - Executive bio (third-person, ~150-220 words)
 4. **Generate.** For each requested output, read the matching section of
